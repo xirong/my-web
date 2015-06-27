@@ -1,19 +1,19 @@
-# 说明 
+# 说明
 学习 WEB 需要的内容整理，包括前端思想、框架、css、js（框架）、http协议等等 ……
-欢迎 `fork` 后贡献自己的，提交 `RP` 即可，一起努力打造更好的 `http` 学习资料~ 
+欢迎 `fork` 后贡献自己的，提交 `RP` 即可，一起努力打造更好的 `http` 学习资料~
 
-# 目录 
+# 目录
 
 # HTTP 协议
-### HTTP Response Code 
+### HTTP Response Code
 - [理解HTTP/304响应](http://www.cnblogs.com/ziyunfei/archive/2012/11/17/2772729.html)  English version [Understanding HTTP/304 Responses](http://www.telerik.com/blogs/understanding-http-304-responses)
 
-## HTTPS 
+## HTTPS
 什么是HTTPS？ [zh-wikipedia 超文本传输安全协议](http://zh.wikipedia.org/zh/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%AE%89%E5%85%A8%E5%8D%8F%E8%AE%AE) （目前大陆已经被封需要翻墙才能阅读，可以阅读英文版[en-wikipedia HTTPS](http://en.wikipedia.org/wiki/HTTPS)）
 
 微博[@BAIDU罗成](http://weibo.com/u/1822556675)的一篇文章 [中国互联网全站HTTPS的时代已经到来](http://blog.csdn.net/luocn99/article/details/39777707)对HTTPS的原理、遇到的问题、有哪些影响做出了介绍，比较容易理解。
 
-百度在2015年3月份全站正式转入HTTPs，下面的几篇文章正是其运维团队的总结经验，很有阅读价值。 
+百度在2015年3月份全站正式转入HTTPs，下面的几篇文章正是其运维团队的总结经验，很有阅读价值。
 - [全站 https 时代的号角 : 大型网站的 https 实践系列](http://op.baidu.com/2015/04/https-index/)
 - [大型网站的 HTTPS 实践（一）—— HTTPS 协议和原理](http://op.baidu.com/2015/04/https-s01a01/)
 - [大型网站的 HTTPS 实践（二）——HTTPS 对性能的影响](http://op.baidu.com/2015/04/https-s01a02/)
@@ -29,7 +29,7 @@
 - [HTTPS as a ranking signal](http://www.googlewebmastercentral.blogspot.ch/2014/08/https-as-ranking-signal.html) 2014-08 google宣布全站HTTPS化，并且调整page rank 算法，搜索中支持搜索 HTTPS 的站点。
 - 2015-03 月份百度全站 HTTPS 化，并且在2015-05-25日宣布[百度开放收录https站点公告](http://zhanzhang.baidu.com/wiki/392)，从此百度也能搜索HTTPS的站点内容了。
 
-## HTTP/2 
+## HTTP/2
 - [Home page for http/2](http://http2.github.io/) http/2 协议官网发布网站，内容更新均在此发布
 - [Http/2 wikipedia](http://en.wikipedia.org/wiki/HTTP/2) 维基百科 http/2 资料，很多参考连接
 - [http2 详解（中文）](https://www.gitbook.com/book/ye11ow/http2-explained)， English version follow this [http2 explained](http://daniel.haxx.se/http2/)，详细讲述http/1.1 的各种不足以及http/2所有的各种优化等，值得一看。github地址为[http2-explained-chinese](https://github.com/ye11ow/http2-explained-chinese)
@@ -46,4 +46,8 @@
 
 # 性能优化
 - [书籍：高性能网站建设](http://book.douban.com/subject/26411563/)，[高性能网站-Web开发者性能优化最佳实践](http://book.douban.com/subject/4719162/)
+- [书籍：Web性能权威指南](http://book.douban.com/subject/25856314/) 全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。（-豆瓣简介）
 - [Web性能优化：What? Why? How?](http://www.cnblogs.com/dojo-lzz/p/4591446.html) 文章从`减少http请求`、`页面内优化`、`启用缓存`、`减少下载量`、`网络优化`等几个方面进行阐述如何让页面加载更快！
+
+# 前后端交互
+- [撰写合格的REST API：设计准则](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=208060670&idx=1&sn=ce67b8896985e8448137052b338093e0) 从RFC一致性、接口的安全性、丰富的接口文档、访问限制等方面进行阐述，通俗易懂，很是推荐阅读。
