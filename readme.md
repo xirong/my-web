@@ -29,6 +29,9 @@
 - [HTTPS as a ranking signal](http://www.googlewebmastercentral.blogspot.ch/2014/08/https-as-ranking-signal.html) 2014-08 google宣布全站HTTPS化，并且调整page rank 算法，搜索中支持搜索 HTTPS 的站点。
 - 2015-03 月份百度全站 HTTPS 化，并且在2015-05-25日宣布[百度开放收录https站点公告](http://zhanzhang.baidu.com/wiki/392)，从此百度也能搜索HTTPS的站点内容了。
 
+#### 如何申请
+- [https的免费申请流程](http://ljinkai.github.io/2015/06/30/https-2/)
+
 ## HTTP/2
 - [Home page for http/2](http://http2.github.io/) http/2 协议官网发布网站，内容更新均在此发布
 - [Http/2 wikipedia](http://en.wikipedia.org/wiki/HTTP/2) 维基百科 http/2 资料，很多参考连接
@@ -43,6 +46,9 @@
 - [Web 基本法则-现代 web 开发最佳实践](https://developers.google.com/web/fundamentals/) google 官方现代多设备 web 开发指南，特别是针对pc web、移动端的设计原则实践，值得每个web开发人员仔细阅读。
 - [前端代码规范及最佳实践](http://coderlmn.github.io/code-standards/) [Isobar公司](http://www.isobar.com/global/)的创意技术部（前端工程）开发web应用的规范，此连接为中文翻译版本，英文版本见 [github-isobar-idev](https://github.com/isobar-idev/code-standards)
 - [前端开发-好习惯、用法](http://coderlmn.github.io/Front-End-Development-Guidelines/) 一些不错的建议，很多在前面的文章中也有描述。
+
+# javascript
+- [MDN javascript资料](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) firefox js 资料库
 
 # 性能优化
 - [书籍：高性能网站建设](http://book.douban.com/subject/26411563/)，[高性能网站-Web开发者性能优化最佳实践](http://book.douban.com/subject/4719162/)
