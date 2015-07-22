@@ -47,6 +47,7 @@
 - [Web 基本法则-现代 web 开发最佳实践](https://developers.google.com/web/fundamentals/) google 官方现代多设备 web 开发指南，特别是针对pc web、移动端的设计原则实践，值得每个web开发人员仔细阅读。
 - [前端代码规范及最佳实践](http://coderlmn.github.io/code-standards/) [Isobar公司](http://www.isobar.com/global/)的创意技术部（前端工程）开发web应用的规范，此连接为中文翻译版本，英文版本见 [github-isobar-idev](https://github.com/isobar-idev/code-standards)
 - [前端开发-好习惯、用法](http://coderlmn.github.io/Front-End-Development-Guidelines/) 一些不错的建议，很多在前面的文章中也有描述。
+- [比较全面的前端面试资料收集](https://github.com/hawx1993/Front-end-Interview-questions)
 
 # javascript
 - [MDN javascript资料](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) firefox js 资料库
