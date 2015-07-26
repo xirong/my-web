@@ -63,3 +63,6 @@
 
 # 前后端交互
 - [撰写合格的REST API：设计准则](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=208060670&idx=1&sn=ce67b8896985e8448137052b338093e0) 从RFC一致性、接口的安全性、丰富的接口文档、访问限制等方面进行阐述，通俗易懂，很是推荐阅读。
+
+# 工具使用
+- Chrome开发者工具不完全指南 [基础篇](http://web.jobbole.com/82558/)、[进阶篇](http://web.jobbole.com/82562/)、[性能篇](http://web.jobbole.com/82576/)、[性能进阶篇](http://web.jobbole.com/82590/)、[移动篇](http://web.jobbole.com/82612/)、[插件篇](http://web.jobbole.com/82701/) 从头介绍如何使用 chrome 进行 web 开发中的调试工作，包括 source、console、性能、profile、移动端调试、常用插件等的介绍，适合想更全面的了解强大的chrome 工具的同学。
