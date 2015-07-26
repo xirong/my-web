@@ -48,6 +48,7 @@
 - [前端代码规范及最佳实践](http://coderlmn.github.io/code-standards/) [Isobar公司](http://www.isobar.com/global/)的创意技术部（前端工程）开发web应用的规范，此连接为中文翻译版本，英文版本见 [github-isobar-idev](https://github.com/isobar-idev/code-standards)
 - [前端开发-好习惯、用法](http://coderlmn.github.io/Front-End-Development-Guidelines/) 一些不错的建议，很多在前面的文章中也有描述。
 - [比较全面的前端面试资料收集](https://github.com/hawx1993/Front-end-Interview-questions)
+- [如何挑选适合的前端框架？](http://www.csdn.net/article/2015-05-11/2824656-fontend-Frameworks) Angular Js、backbone等各种各样的前端MVVM框架层出不穷，移动端友好、SEO 友好，面临这些需求，有哪些原则、挑战，如何筛选？去哪儿网前端架构师司徒正美分析了各主流行框架优劣点、适用场景，并针对不同规模的公司、项目给出了相应的前端技术选择方案。
 
 # javascript
 - [MDN javascript资料](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) firefox js 资料库
