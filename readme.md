@@ -57,9 +57,14 @@
 - [极客学院-h5学习计划系列视频](http://e.jikexueyuan.com/html5.html?hmsr=osc_word_html5_07.01)
 
 # 性能优化
+
 - [书籍：高性能网站建设](http://book.douban.com/subject/26411563/)，[高性能网站-Web开发者性能优化最佳实践](http://book.douban.com/subject/4719162/)
 - [书籍：High Performance Browser Networking](http://book.douban.com/subject/25856314/) 全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。（-豆瓣简介）
 - [Web性能优化：What? Why? How?](http://www.cnblogs.com/dojo-lzz/p/4591446.html) 文章从`减少http请求`、`页面内优化`、`启用缓存`、`减少下载量`、`网络优化`等几个方面进行阐述如何让页面加载更快！
+- [毫秒必争，前端网页性能最佳实践法则](http://www.cnblogs.com/developersupport/p/webpage-performance-best-practices.html)  从网页内容、服务器端、图片、cookie、css、js等角度阐述优化的实践内容。
+- [Google - PageSpeed Insights规则](https://developers.google.com/speed/docs/insights/rules)
+- [Yahoo - Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) ， [中文翻译](http://dudo.org/archives/2008051211216.html)
+- [Web前端优化最佳实践及工具集锦](http://www.csdn.net/article/2013-09-23/2817020-web-performance-optimization) 对上两条 google 和 yahoo 理论的实践文章，并提供一些调试优化的前端工具。
 
 # 前后端交互
 - [撰写合格的REST API：设计准则](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=208060670&idx=1&sn=ce67b8896985e8448137052b338093e0) 从RFC一致性、接口的安全性、丰富的接口文档、访问限制等方面进行阐述，通俗易懂，很是推荐阅读。
