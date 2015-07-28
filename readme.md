@@ -54,6 +54,7 @@
 # javascript
 - [MDN javascript资料](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) firefox js 资料库
 - [ECMAScript 6](https://zh.wikipedia.org/wiki/ECMAScript) 新一代的 javascript 标准，带来很多先进的理念和特性，查看阮一峰写的电子书《[ECMAScript 6入门](http://es6.ruanyifeng.com/)》进行学习，或者查看 mozilla 的系列文章《[ES6 In Depth Articles](https://hacks.mozilla.org/category/es6-in-depth/)》 中文翻译由CSDN极客头条[探秘ES6](http://www.csdn.net/tag/%E6%8E%A2%E7%A7%98es6/news)。
+- [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) js 的开发规模式或者说推荐的写法。
 
 # html5
 - [极客学院-h5学习计划系列视频](http://e.jikexueyuan.com/html5.html?hmsr=osc_word_html5_07.01)
