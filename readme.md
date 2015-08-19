@@ -3,7 +3,7 @@
 欢迎 `fork` 后贡献自己的，提交 `RP` 即可，一起努力打造更好的 `http` 学习资料~
 
 # 前端学习路线图
-- [前端学习路线图](https://github.com/unruledboy/WebFrontEndStack)
+- [前端学习路线图](https://github.com/unruledboy/WebFrontEndStack) 文章解释说明[Web前端开发大系概览 （前端开发技术栈）](http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html)
 
 # HTTP 协议
 ### HTTP Response Code
