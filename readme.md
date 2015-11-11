@@ -1,6 +1,6 @@
 # 说明
 学习 WEB 需要的内容整理，包括前端思想、框架、css、js（框架）、http协议等等 ……
-欢迎 `fork` 后贡献自己的，提交 `RP` 即可，一起努力打造更好的 `http` 学习资料~
+欢迎 `fork` 后贡献 `PR` ，一起努力打造更好的 `web` 学习资料~
 
 # HTTP 协议
 ## HTTP Response Code
@@ -82,14 +82,11 @@
 - [爱前端-前端测试服务](http://itest.aliyun.com/index.htm) UI自动化测试、多浏览器检测（js\css脚本错误等）、页面坏死链检测等，方便在多浏览器的兼容性测试过程中快速发现定位问题，节约时间。
 - [JavaScript 堆内存分析新工具 OneHeap](http://www.html-js.com/article/3091)、[OneProfile](http://www.html-js.com/article/3083)
 
-
 # 前后端交互
 - [Rest - Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) wikipedia 介绍，[中文在此](https://zh.wikipedia.org/wiki/REST)
 - [阮一峰 - 理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
 - [撰写合格的REST API：设计准则](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=208060670&idx=1&sn=ce67b8896985e8448137052b338093e0) 从RFC一致性、接口的安全性、丰富的接口文档、访问限制等方面进行阐述，通俗易懂，很是推荐阅读。
 - [Restful Api 安全设计参考](http://drops.wooyun.org/web/9737?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-
-
 
 ## 常用 CDN 服务
 - [百度静态资源公共库](http://cdn.code.baidu.com/)
