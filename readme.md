@@ -69,11 +69,13 @@
 - [Google - PageSpeed Insights规则](https://developers.google.com/speed/docs/insights/rules)
 - [Yahoo - Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) ， [中文翻译](http://dudo.org/archives/2008051211216.html)
 - [Web前端优化最佳实践及工具集锦](http://www.csdn.net/article/2013-09-23/2817020-web-performance-optimization) 对上两条 google 和 yahoo 理论的实践文章，并提供一些调试优化的前端工具。
+- [网页性能管理详解-阮一峰](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html) 详述页面加载的原理机制及优化场景。
 
 # 前后端交互
 - [Rest - Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) wikipedia 介绍，[中文在此](https://zh.wikipedia.org/wiki/REST)
 - [阮一峰 - 理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
 - [撰写合格的REST API：设计准则](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=208060670&idx=1&sn=ce67b8896985e8448137052b338093e0) 从RFC一致性、接口的安全性、丰富的接口文档、访问限制等方面进行阐述，通俗易懂，很是推荐阅读。
+- [Restful Api 安全设计参考](http://drops.wooyun.org/web/9737?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # 工具使用
 - Chrome开发者工具不完全指南 [基础篇](http://web.jobbole.com/82558/)、[进阶篇](http://web.jobbole.com/82562/)、[性能篇](http://web.jobbole.com/82576/)、[性能进阶篇](http://web.jobbole.com/82590/)、[移动篇](http://web.jobbole.com/82612/)、[插件篇](http://web.jobbole.com/82701/) 从头介绍如何使用 chrome 进行 web 开发中的调试工作，包括 source、console、性能、profile、移动端调试、常用插件等的介绍，适合想更全面的了解强大的chrome 工具的同学。
