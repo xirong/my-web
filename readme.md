@@ -2,11 +2,8 @@
 学习 WEB 需要的内容整理，包括前端思想、框架、css、js（框架）、http协议等等 ……
 欢迎 `fork` 后贡献自己的，提交 `RP` 即可，一起努力打造更好的 `http` 学习资料~
 
-# 前端学习路线图
-- [前端学习路线图](https://github.com/unruledboy/WebFrontEndStack) 文章解释说明[Web前端开发大系概览 （前端开发技术栈）](http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html)
-
 # HTTP 协议
-### HTTP Response Code
+## HTTP Response Code
 - [理解HTTP/304响应](http://www.cnblogs.com/ziyunfei/archive/2012/11/17/2772729.html)  English version [Understanding HTTP/304 Responses](http://www.telerik.com/blogs/understanding-http-304-responses)
 
 ## HTTPS
@@ -43,7 +40,9 @@
 - [HTTP/2 与 WEB 性能优化（二）](https://www.imququ.com/post/http2-and-wpo-2.html)
 - [HTTP/2 与 WEB 性能优化（三）](https://www.imququ.com/post/http2-and-wpo-3.html)
 
-# 前端开发
+# 前端学习
+- [前端学习路线图](https://github.com/unruledboy/WebFrontEndStack) 文章解释说明[Web前端开发大系概览 （前端开发技术栈）](http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html)
+- [前端技能汇总 Frontend Knowledge Structure --github](https://github.com/JacksonTian/fks)
 - [Web前端知识体系大全](http://www.cnblogs.com/wangfupeng1988/p/4649709.html) cnblog 上的一哥们写的，挺全面的。
 - [Web 基本法则-现代 web 开发最佳实践](https://developers.google.com/web/fundamentals/) google 官方现代多设备 web 开发指南，特别是针对pc web、移动端的设计原则实践，值得每个web开发人员仔细阅读。
 - [前端代码规范及最佳实践](http://coderlmn.github.io/code-standards/) [Isobar公司](http://www.isobar.com/global/)的创意技术部（前端工程）开发web应用的规范，此连接为中文翻译版本，英文版本见 [github-isobar-idev](https://github.com/isobar-idev/code-standards)
@@ -52,12 +51,14 @@
 - [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 包含笔试题、面试题以及简历的一些技巧。
 - [如何挑选适合的前端框架？](http://www.csdn.net/article/2015-05-11/2824656-fontend-Frameworks) Angular Js、backbone等各种各样的前端MVVM框架层出不穷，移动端友好、SEO 友好，面临这些需求，有哪些原则、挑战，如何筛选？去哪儿网前端架构师司徒正美分析了各主流行框架优劣点、适用场景，并针对不同规模的公司、项目给出了相应的前端技术选择方案。
 
-# javascript
+## 前端面试题
+
+## javascript
 - [MDN javascript资料](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) firefox js 资料库
 - [ECMAScript 6](https://zh.wikipedia.org/wiki/ECMAScript) 新一代的 javascript 标准，带来很多先进的理念和特性，查看阮一峰写的电子书《[ECMAScript 6入门](http://es6.ruanyifeng.com/)》进行学习，或者查看 mozilla 的系列文章《[ES6 In Depth Articles](https://hacks.mozilla.org/category/es6-in-depth/)》 中文翻译由CSDN极客头条[探秘ES6](http://www.csdn.net/tag/%E6%8E%A2%E7%A7%98es6/news)。
 - [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) js 的开发规模式或者说推荐的写法。
 
-# html5
+## html5
 - [极客学院-h5学习计划系列视频](http://e.jikexueyuan.com/html5.html?hmsr=osc_word_html5_07.01)
 
 # 性能优化
@@ -80,3 +81,11 @@
 # 工具使用
 - Chrome开发者工具不完全指南 [基础篇](http://web.jobbole.com/82558/)、[进阶篇](http://web.jobbole.com/82562/)、[性能篇](http://web.jobbole.com/82576/)、[性能进阶篇](http://web.jobbole.com/82590/)、[移动篇](http://web.jobbole.com/82612/)、[插件篇](http://web.jobbole.com/82701/) 从头介绍如何使用 chrome 进行 web 开发中的调试工作，包括 source、console、性能、profile、移动端调试、常用插件等的介绍，适合想更全面的了解强大的chrome 工具的同学。
 - [Collection of links to assist you in web design and development](https://github.com/noahbuscher/Inspire) 前端设计、框架工具、打包工具、团队协作等一些资料工具使用。
+
+## 常用 CDN 服务
+- [百度静态资源公共库](http://cdn.code.baidu.com/)
+- [360 网站卫士常用前端公共库 CDN 服务](http://libs.useso.com/)
+- [Bootstrap 中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/)
+- [CDN公共库-插件库](http://www.jq22.com/cdn/)
+- [jQuery CDN](http://code.jquery.com/)
+
