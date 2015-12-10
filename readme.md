@@ -51,7 +51,7 @@
 - [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 包含笔试题、面试题以及简历的一些技巧。
 - [如何挑选适合的前端框架？](http://www.csdn.net/article/2015-05-11/2824656-fontend-Frameworks) Angular Js、backbone等各种各样的前端MVVM框架层出不穷，移动端友好、SEO 友好，面临这些需求，有哪些原则、挑战，如何筛选？去哪儿网前端架构师司徒正美分析了各主流行框架优劣点、适用场景，并针对不同规模的公司、项目给出了相应的前端技术选择方案。
 
-## 工具使用
+## 开发调试
 - Chrome开发者工具不完全指南 [基础篇](http://web.jobbole.com/82558/)、[进阶篇](http://web.jobbole.com/82562/)、[性能篇](http://web.jobbole.com/82576/)、[性能进阶篇](http://web.jobbole.com/82590/)、[移动篇](http://web.jobbole.com/82612/)、[插件篇](http://web.jobbole.com/82701/) 从头介绍如何使用 chrome 进行 web 开发中的调试工作，包括 source、console、性能、profile、移动端调试、常用插件等的介绍，适合想更全面的了解强大的chrome 工具的同学。
 - [Collection of links to assist you in web design and development](https://github.com/noahbuscher/Inspire) 前端设计、框架工具、打包工具、团队协作等一些资料工具使用。
 
@@ -79,8 +79,10 @@
 ## 工具利器
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) Google的工具很是方便，极力推荐。
 - [阿里测](http://www.alibench.com/) 帮助分析排查页面的性能优化点
-- [爱前端-前端测试服务](http://itest.aliyun.com/index.htm) UI自动化测试、多浏览器检测（js\css脚本错误等）、页面坏死链检测等，方便在多浏览器的兼容性测试过程中快速发现定位问题，节约时间。
+- [爱前端-前端测试服务](http://itest.aliyun.com/index.htm) UI自动化测试、多浏览器检测（js\css脚本错误等）、页面坏死链检测等，方便在多浏览器的兼容性测试过程中快速发现定位问题，节约时间。或者这个也不错[前端测试服务](http://fts.aliyun.com/index.htm?spm=0.0.0.0.IDYSmX)
+- [阿里移动质量中心](http://mqc.aliyun.com/?spm=0.0.0.0.id9E8r) 安卓、ios、h5兼容性测试，可以很方便的适配多种安卓终端、ios的多个版本吧兼容性等，很是方便。
 - [JavaScript 堆内存分析新工具 OneHeap](http://www.html-js.com/article/3091)、[OneProfile](http://www.html-js.com/article/3083)
+- [web以及移动端安全测试工具-HiTest 安全测试服务](http://sts.aliyun.com/index.html?spm=0.0.0.0.boVYwN)
 
 # 前后端交互
 - [Rest - Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) wikipedia 介绍，[中文在此](https://zh.wikipedia.org/wiki/REST)
