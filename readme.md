@@ -42,7 +42,7 @@
 
 # 前端学习
 - [前端学习路线图](https://github.com/unruledboy/WebFrontEndStack) 文章解释说明[Web前端开发大系概览 （前端开发技术栈）](http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html)
-- [前端技能汇总 Frontend Knowledge Structure --github](https://github.com/JacksonTian/fks)
+- [前端技能汇总 Frontend Knowledge Structure --github](https://github.com/JacksonTian/fks) 由阿里前端两位杰出的工程师维护的关于前端的知识图谱 [@JacksonTian](https://github.com/JacksonTian) [@jayli（拔赤）](https://github.com/jayli/)
 - [Web前端知识体系大全](http://www.cnblogs.com/wangfupeng1988/p/4649709.html) cnblog 上的一哥们写的，挺全面的。
 - [Web 基本法则-现代 web 开发最佳实践](https://developers.google.com/web/fundamentals/) google 官方现代多设备 web 开发指南，特别是针对pc web、移动端的设计原则实践，值得每个web开发人员仔细阅读。
 - [前端代码规范及最佳实践](http://coderlmn.github.io/code-standards/) [Isobar公司](http://www.isobar.com/global/)的创意技术部（前端工程）开发web应用的规范，此连接为中文翻译版本，英文版本见 [github-isobar-idev](https://github.com/isobar-idev/code-standards)
@@ -50,6 +50,7 @@
 - [比较全面的前端面试资料收集](https://github.com/hawx1993/Front-end-Interview-questions) 主要是原理层面，知识点的理解。
 - [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 包含笔试题、面试题以及简历的一些技巧。
 - [如何挑选适合的前端框架？](http://www.csdn.net/article/2015-05-11/2824656-fontend-Frameworks) Angular Js、backbone等各种各样的前端MVVM框架层出不穷，移动端友好、SEO 友好，面临这些需求，有哪些原则、挑战，如何筛选？去哪儿网前端架构师司徒正美分析了各主流行框架优劣点、适用场景，并针对不同规模的公司、项目给出了相应的前端技术选择方案。
+
 
 ## 开发调试
 - Chrome开发者工具不完全指南 [基础篇](http://web.jobbole.com/82558/)、[进阶篇](http://web.jobbole.com/82562/)、[性能篇](http://web.jobbole.com/82576/)、[性能进阶篇](http://web.jobbole.com/82590/)、[移动篇](http://web.jobbole.com/82612/)、[插件篇](http://web.jobbole.com/82701/) 从头介绍如何使用 chrome 进行 web 开发中的调试工作，包括 source、console、性能、profile、移动端调试、常用插件等的介绍，适合想更全面的了解强大的chrome 工具的同学。
