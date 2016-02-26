@@ -87,7 +87,7 @@
 
 # 前后端交互
 - [Rest - Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) wikipedia 介绍，[中文在此](https://zh.wikipedia.org/wiki/REST)
-- [阮一峰 - 理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
+- [理解 RESTFul 架构](http://gold.xitu.io/entry/56c29d7079bc4400540773e4?utm_source=leopost&utm_medium=20160221&utm_campaign=weibo) 或者简单的阅读[阮一峰 - 理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
 - [撰写合格的REST API：设计准则](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=208060670&idx=1&sn=ce67b8896985e8448137052b338093e0) 从RFC一致性、接口的安全性、丰富的接口文档、访问限制等方面进行阐述，通俗易懂，很是推荐阅读。
 - [Restful Api 安全设计参考](http://drops.wooyun.org/web/9737?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [Web 研发模式演变 - 为什么要进行前后端分离？](https://github.com/lifesinger/blog/issues/184) [@玉伯](https://github.com/lifesinger) 前端模块化开发[sea.js](http://seajs.org/docs/#intro)的维护者，推荐阅读。
