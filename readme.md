@@ -41,6 +41,7 @@
 - [HTTP/2 与 WEB 性能优化（三）](https://www.imququ.com/post/http2-and-wpo-3.html)
 
 # 前端学习
+- [一个前端的自我修养](http://taobaofed.org/blog/2016/03/23/the-growth-of-front-end/)  前端大神 [@寒冬winter](https://github.com/wintercn) 执笔，值得放在第一条。
 - [前端学习路线图](https://github.com/unruledboy/WebFrontEndStack) 文章解释说明[Web前端开发大系概览 （前端开发技术栈）](http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html)
 - [前端技能汇总 Frontend Knowledge Structure --github](https://github.com/JacksonTian/fks) 由阿里前端两位杰出的工程师维护的关于前端的知识图谱 [@JacksonTian](https://github.com/JacksonTian) [@jayli（拔赤）](https://github.com/jayli/)
 - [Web前端知识体系大全](http://www.cnblogs.com/wangfupeng1988/p/4649709.html) cnblog 上的一哥们写的，挺全面的。
