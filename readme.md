@@ -54,8 +54,14 @@
 
 
 ## 开发调试
+
+- [Chrome DevTools Overview](https://developer.chrome.com/devtools) 官方介绍
+
+
 - Chrome开发者工具不完全指南 [基础篇](http://web.jobbole.com/82558/)、[进阶篇](http://web.jobbole.com/82562/)、[性能篇](http://web.jobbole.com/82576/)、[性能进阶篇](http://web.jobbole.com/82590/)、[移动篇](http://web.jobbole.com/82612/)、[插件篇](http://web.jobbole.com/82701/) 从头介绍如何使用 chrome 进行 web 开发中的调试工作，包括 source、console、性能、profile、移动端调试、常用插件等的介绍，适合想更全面的了解强大的chrome 工具的同学。
 - [Collection of links to assist you in web design and development](https://github.com/noahbuscher/Inspire) 前端设计、框架工具、打包工具、团队协作等一些资料工具使用。
+- [Google Developers - PageSpeed Tools](https://developers.google.com/speed/pagespeed/?csw=1) The PageSpeed tools analyze and optimize your site following web best practices.
+- [chrome 控制台使用指南](http://frontenddev.org/column/chrome-development-tools-using-guide/) 包含 JS 内存泄露排查、alert 弹窗、Dom 断点调试、Timeline 介绍等，很是方便。
 
 
 ## javascript
