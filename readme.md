@@ -9,6 +9,8 @@
 # HTTPS
 什么是HTTPS？ [zh-wikipedia 超文本传输安全协议](http://zh.wikipedia.org/zh/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%AE%89%E5%85%A8%E5%8D%8F%E8%AE%AE) （目前大陆已经被封需要翻墙才能阅读，可以阅读英文版[en-wikipedia HTTPS](http://en.wikipedia.org/wiki/HTTPS)）
 
+[HTTPS 连接的最初几秒都发生了什么 (The First Few Milliseconds of an HTTPS Connection)](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
+
 微博[@BAIDU罗成](http://weibo.com/u/1822556675)的一篇文章 [中国互联网全站HTTPS的时代已经到来](http://blog.csdn.net/luocn99/article/details/39777707)对HTTPS的原理、遇到的问题、有哪些影响做出了介绍，比较容易理解。
 
 百度在2015年3月份全站正式转入HTTPs，下面的几篇文章正是其运维团队的总结经验，很有阅读价值。
@@ -109,6 +111,7 @@
 # 前后端交互
 - [Rest - Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) wikipedia 介绍，[中文在此](https://zh.wikipedia.org/wiki/REST)
 - [理解 RESTFul 架构](http://gold.xitu.io/entry/56c29d7079bc4400540773e4?utm_source=leopost&utm_medium=20160221&utm_campaign=weibo) 或者简单的阅读[阮一峰 - 理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
+- [怎样向妻子解释 REST 架构](https://d4dilip.wordpress.com/2011/10/18/how-i-explained-rest-to-my-wife/) 很生动形象，剪短的英文，比喻恰当。:+1:
 - [撰写合格的REST API：设计准则](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=208060670&idx=1&sn=ce67b8896985e8448137052b338093e0) 从RFC一致性、接口的安全性、丰富的接口文档、访问限制等方面进行阐述，通俗易懂，很是推荐阅读。
 - [Restful Api 安全设计参考](http://drops.wooyun.org/web/9737?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [Web 研发模式演变 - 为什么要进行前后端分离？](https://github.com/lifesinger/blog/issues/184) [@玉伯](https://github.com/lifesinger) 前端模块化开发[sea.js](http://seajs.org/docs/#intro)的维护者，推荐阅读。
