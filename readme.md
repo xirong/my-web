@@ -60,24 +60,24 @@
 
 
 ## 开发调试
-
 - [Chrome DevTools Overview](https://developer.chrome.com/devtools) 官方介绍
-
-
 - Chrome开发者工具不完全指南 [基础篇](http://web.jobbole.com/82558/)、[进阶篇](http://web.jobbole.com/82562/)、[性能篇](http://web.jobbole.com/82576/)、[性能进阶篇](http://web.jobbole.com/82590/)、[移动篇](http://web.jobbole.com/82612/)、[插件篇](http://web.jobbole.com/82701/) 从头介绍如何使用 chrome 进行 web 开发中的调试工作，包括 source、console、性能、profile、移动端调试、常用插件等的介绍，适合想更全面的了解强大的chrome 工具的同学。
 - [Collection of links to assist you in web design and development](https://github.com/noahbuscher/Inspire) 前端设计、框架工具、打包工具、团队协作等一些资料工具使用。
 - [Google Developers - PageSpeed Tools](https://developers.google.com/speed/pagespeed/?csw=1) The PageSpeed tools analyze and optimize your site following web best practices.
 - [chrome 控制台使用指南](http://frontenddev.org/column/chrome-development-tools-using-guide/) 包含 JS 内存泄露排查、alert 弹窗、Dom 断点调试、Timeline 介绍等，很是方便。
 
-
 ## javascript
 - [MDN javascript资料](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) firefox js 资料库
 - [ECMAScript 6](https://zh.wikipedia.org/wiki/ECMAScript) 新一代的 javascript 标准，带来很多先进的理念和特性，查看阮一峰写的电子书《[ECMAScript 6入门](http://es6.ruanyifeng.com/)》进行学习，或者查看 mozilla 的系列文章《[ES6 In Depth Articles](https://hacks.mozilla.org/category/es6-in-depth/)》 中文翻译由CSDN极客头条[探秘ES6](http://www.csdn.net/tag/%E6%8E%A2%E7%A7%98es6/news)。
 - [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) js 的开发规模式或者说推荐的写法。
+- [fettool 整理的一些 js 组件库](https://github.com/nieweidong/fetool#浏览端-js) 比较实用的 js 库推荐
 
-## html5
+## html
 - [极客学院-h5学习计划系列视频](http://e.jikexueyuan.com/html5.html?hmsr=osc_word_html5_07.01)
+- [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD) 整理的 HEAD 标签里面的内容，很全面，赞 :+1:
 
+## bootstrap
+- [AdminLTE - 后台管理模板](https://github.com/almasaeed2010/AdminLTE/) star 1W+
 # 性能优化
 - [书籍：高性能网站建设](http://book.douban.com/subject/26411563/)，[高性能网站-Web开发者性能优化最佳实践](http://book.douban.com/subject/4719162/)
 - [书籍：High Performance Browser Networking](http://book.douban.com/subject/25856314/) 全书以性能优化为主线，从TCP、UDP 和TLS 协议讲起，解释了如何针对这几种协议和基础设施来优化应用。然后深入探讨了无线和移动网络的工作机制。最后，揭示了HTTP 协议的底层细节，同时详细介绍了HTTP 2.0、 XHR、SSE、WebSocket、WebRTC 和DataChannel 等现代浏览器新增的具有革命性的新能力。（-豆瓣简介）
@@ -89,7 +89,10 @@
 - [网页性能管理详解-阮一峰](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html) 详述页面加载的原理机制及优化场景。
 
 ## 工具利器
+- [Postman](https://www.getpostman.com/apps)- POST 接口调试终结者，异常强大的接口调试工具。
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) Google的工具很是方便，极力推荐。
+- [CanIuse](http://caniuse.com/) - 前端必备，查看浏览器对各种新特性的兼容情况。"Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers."
+- [chrome-浏览器插件](https://github.com/nieweidong/fetool#chrome-浏览器插件) 一些比较实用的 chrome 浏览器插件
 - [阿里测](http://www.alibench.com/) 帮助分析排查页面的性能优化点
 - [爱前端-前端测试服务](http://itest.aliyun.com/index.htm) UI自动化测试、多浏览器检测（js\css脚本错误等）、页面坏死链检测等，方便在多浏览器的兼容性测试过程中快速发现定位问题，节约时间。或者这个也不错[前端测试服务](http://fts.aliyun.com/index.htm?spm=0.0.0.0.IDYSmX)
 - [阿里移动质量中心](http://mqc.aliyun.com/?spm=0.0.0.0.id9E8r) 安卓、ios、h5兼容性测试，可以很方便的适配多种安卓终端、ios的多个版本吧兼容性等，很是方便。
@@ -110,3 +113,4 @@
 - [Restful Api 安全设计参考](http://drops.wooyun.org/web/9737?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [Web 研发模式演变 - 为什么要进行前后端分离？](https://github.com/lifesinger/blog/issues/184) [@玉伯](https://github.com/lifesinger) 前端模块化开发[sea.js](http://seajs.org/docs/#intro)的维护者，推荐阅读。
 - [基于NodeJS的前后端分离(Taobao UED)](http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/) 淘宝 @常胤  整理的对前后端交互的问题进行说明和提出解决方法，值得推荐阅读。
+- [HTTP API design guide](https://github.com/interagent/http-api-design) 这篇指南介绍描述了 HTTP+JSON API 的一种设计模式，一直试图找出一种良好的、一致的、显而易见的 API 设计方法，而并不是所谓的"最终/理想模式"。中文翻译版见[HTTP API 设计指南(http-api-design-ZH_CN)](https://github.com/ZhangBohan/http-api-design-ZH_CN)
