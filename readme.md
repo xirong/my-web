@@ -20,6 +20,10 @@
 - [大型网站的 HTTPS 实践（三）——基于协议和配置的优化](http://op.baidu.com/2015/04/https-s01a03/)
 - [大型网站的 HTTPS 实践（四）——协议层以外的实践](http://op.baidu.com/2015/04/https-s01a04/)
 
+淘宝、天猫世界级的电子商务网站实现 HTTPS，这里面的分享相当有价值。
+- [让用户数据更安全——淘宝、天猫全网HTTPS实践](http://www.infoq.com/cn/presentations/let-user-data-more-secure)
+- [淘宝全站 HTTPS 百万页面改造技术细节大起底](https://yq.aliyun.com/articles/2978) 这篇文章只是大概的说了说背景，详细的干货参考:[velocity 大会-淘宝全站HTTPS实践](http://velocity.oreilly.com.cn/2015/index.php?func=session&id=8)
+
 ## 既然 HTTPS 解决了我们关注的隐私、安全问题，那么为什么这么少的网站使用呢？
 - [Stackoverflow.com: the road to SSL](http://nickcraver.com/blog/2013/04/23/stackoverflow-com-the-road-to-ssl/) statckoverflow 的创始人解答，大型网站的转型需要众多依赖的组件、服务商都支持HTTPS，最关键的还是CA证书问题。
 - [知乎-如何看待百度全站搜索进入 HTTPS 时代？](http://www.zhihu.com/question/28379088)
