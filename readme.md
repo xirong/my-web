@@ -9,7 +9,7 @@
 # HTTPS
 什么是HTTPS？ [zh-wikipedia 超文本传输安全协议](http://zh.wikipedia.org/zh/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%AE%89%E5%85%A8%E5%8D%8F%E8%AE%AE) （目前大陆已经被封需要翻墙才能阅读，可以阅读英文版[en-wikipedia HTTPS](http://en.wikipedia.org/wiki/HTTPS)）
 
-[HTTPS 连接的最初几秒都发生了什么 (The First Few Milliseconds of an HTTPS Connection)](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
+[HTTPS 连接的最初几秒都发生了什么 (The First Few Milliseconds of an HTTPS Connection)](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html) 中文翻译参考 [InfoQ HTTPS 连接最初的若干毫秒](http://www.infoq.com/cn/articles/HTTPS-Connection-Jeff-Moser)
 
 微博[@BAIDU罗成](http://weibo.com/u/1822556675)的一篇文章 [中国互联网全站HTTPS的时代已经到来](http://blog.csdn.net/luocn99/article/details/39777707)对HTTPS的原理、遇到的问题、有哪些影响做出了介绍，比较容易理解。
 
@@ -40,6 +40,7 @@
 - [Home page for http/2](http://http2.github.io/) http/2 协议官网发布网站，内容更新均在此发布
 - [Http/2 wikipedia](http://en.wikipedia.org/wiki/HTTP/2) 维基百科 http/2 资料，很多参考连接
 - [http2 详解（中文）](https://www.gitbook.com/book/ye11ow/http2-explained)， English version follow this [http2 explained](http://daniel.haxx.se/http2/)，详细讲述http/1.1 的各种不足以及http/2所有的各种优化等，值得一看。github地址为[http2-explained-chinese](https://github.com/ye11ow/http2-explained-chinese)
+- [Jerry Qu - http2 整理](https://imququ.com/series.html) 几篇不错的文章
 
 [@qgy18](https://twitter.com/qgy18)在他的小站中写了三篇对比 HTTP1 和 HTTP2 性能优化的文章，对比两种协议里面为了共同的浏览体验、性能所做出的不同的优化，值得看一看。同时，他的小站已经全面支持 HTTPS，赞一个！
 - [HTTP/2 与 WEB 性能优化（一）](https://www.imququ.com/post/http2-and-wpo-1.html)
