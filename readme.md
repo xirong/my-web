@@ -61,9 +61,9 @@
 - [浏览器缓存知识小结及应用](http://www.cnblogs.com/lyzg/p/5125934.html) 关于浏览器缓存，讲解的很清楚、细致。
 - [跨域资源共享 CORS 详解 - 阮一峰](http://www.ruanyifeng.com/blog/2016/04/cors.html) 浏览器有个同源策略，对于不同源的站点之间的相互请求会做限制（跨域限制是浏览器行为，不是服务器行为），解决办法有常见的 JSONP、CORS 等，JSONP 只支持GET请求，CORS支持所有类型的HTTP请求。JSONP 的优势在于支持老式浏览器，以及可以向不支持CORS的网站请求数据。
 > 1.浏览器先根据同源策略对前端页面和后台交互地址做匹配，若同源，则直接发送数据请求；若不同源，则发送跨域请求。
-2.服务器解析程序收到浏览器跨域请求后，根据自身配置返回对应文件头。若未配置过任何允许跨域，则文件头里不包含Access-Control-Allow-origin字段，若配置过域名，则返回Access-Control-Allow-origin+ 对应配置规则里的域名的方式。
-3.浏览器根据接受到的http文件头里的Access-Control-Allow-origin字段做匹配，若无该字段，说明不允许跨域；若有该字段，则对字段内容和当前域名做比对，如果同源，则说明可以跨域，浏览器发送该请求；若不同源，则说明该域名不可跨域，不发送请求 
-参考:[浏览器和服务器实现跨域（CORS）判定的原理](https://segmentfault.com/a/1190000003710973)
+> 2.服务器解析程序收到浏览器跨域请求后，根据自身配置返回对应文件头。若未配置过任何允许跨域，则文件头里不包含Access-Control-Allow-origin字段，若配置过域名，则返回Access-Control-Allow-origin+ 对应配置规则里的域名的方式。
+> 3.浏览器根据接受到的http文件头里的Access-Control-Allow-origin字段做匹配，若无该字段，说明不允许跨域；若有该字段，则对字段内容和当前域名做比对，如果同源，则说明可以跨域，浏览器发送该请求；若不同源，则说明该域名不可跨域，不发送请求 
+> 参考:[浏览器和服务器实现跨域（CORS）判定的原理](https://segmentfault.com/a/1190000003710973)
 
 
 ## 开发调试
@@ -101,17 +101,21 @@
 - [CanIuse](http://caniuse.com/) - 前端必备，查看浏览器对各种新特性的兼容情况。"Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers."
 - [chrome-浏览器插件](https://github.com/nieweidong/fetool#chrome-浏览器插件) 一些比较实用的 chrome 浏览器插件
 - [阿里测](http://www.alibench.com/) 帮助分析排查页面的性能优化点
-- [爱前端-前端测试服务](http://itest.aliyun.com/index.htm) UI自动化测试、多浏览器检测（js\css脚本错误等）、页面坏死链检测等，方便在多浏览器的兼容性测试过程中快速发现定位问题，节约时间。或者这个也不错[前端测试服务](http://fts.aliyun.com/index.htm?spm=0.0.0.0.IDYSmX)
+- [爱前端-前端测试服务](http://itest.aliyun.com/index.htm) UI自动化测试、多浏览器检测（js\css脚本错误等）、页面坏死链检测等，方便在多浏览器的兼容性测试过程中快速发现定位问题，节约时间。或者这个也不错 [前端测试服务](http://fts.aliyun.com/index.htm?spm=0.0.0.0.IDYSmX)
+- [BrowserStack](https://www.browserstack.com/) 免费的很好用，通过截图来反馈多浏览器下的兼容性，免费的速度很快，强烈推荐使用这个。
 - [阿里移动质量中心](http://mqc.aliyun.com/?spm=0.0.0.0.id9E8r) 安卓、ios、h5兼容性测试，可以很方便的适配多种安卓终端、ios的多个版本吧兼容性等，很是方便。
 - [JavaScript 堆内存分析新工具 OneHeap](http://www.html-js.com/article/3091)、[OneProfile](http://www.html-js.com/article/3083)
 - [web以及移动端安全测试工具-HiTest 安全测试服务](http://sts.aliyun.com/index.html?spm=0.0.0.0.boVYwN)
 
 ## 常用 CDN 服务
+- [Bootstrap 中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/)  各种组件，很全面， 主要同步于 [cdnjs](https://github.com/cdnjs/cdnjs) 仓库，又拍云提供存储服务，你所使用的组件基本上都能在这里找到，强烈推荐。
+- [七牛云存储开放静态文件CDN](http://www.staticfile.org)
 - [百度静态资源公共库](http://cdn.code.baidu.com/)
-- [360 网站卫士常用前端公共库 CDN 服务](http://libs.useso.com/)
-- [Bootstrap 中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/)
+- ~~[360 网站卫士常用前端公共库 CDN 服务](http://libs.useso.com/)~~
+- [CDNJS](http://www.cdnjs.com) 国内依托又拍云的服务[ CDNJS.cn ](http://www.cdnjs.cn/) 速度还可以。
 - [CDN公共库-插件库](http://www.jq22.com/cdn/)
 - [jQuery CDN](http://code.jquery.com/)
+- [又拍云常用JavaScript库CDN服务](http://jscdn.upai.com/)
 
 # 前后端交互
 - [Rest - Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) wikipedia 介绍，[中文在此](https://zh.wikipedia.org/wiki/REST)
